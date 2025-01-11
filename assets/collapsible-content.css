@@ -18,6 +18,7 @@
 /* Needed for gradient continuity with or without animation so that transparent PNG images come up as we would expect */
 .collapsible-content__media {
   background: transparent;
+  background-color: #f0f8ff;
 }
 
 .collapsible-content__media--small {
